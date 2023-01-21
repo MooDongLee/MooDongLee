@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header&text=MooDong%20Lee&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
+<!-- [header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header&text=MooDong%20Lee&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100) -->
+
+<img width="100%" src="https://user-images.githubusercontent.com/47058935/213885248-a1d1fbf0-7331-4d4d-b4d8-a8332f025670.jpg"/>
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
@@ -49,6 +51,6 @@ I am very interested in Artificial Intelligence, Bigdata. ✨
   <img src="https://github-readme-stats.vercel.app/api?username=MooDongLee&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer) -->
 
 </div>
