@@ -1,6 +1,6 @@
 <!-- [header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header&text=MooDong%20Lee&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100) -->
 
-<img width="100%" src="https://user-images.githubusercontent.com/47058935/213885248-a1d1fbf0-7331-4d4d-b4d8-a8332f025670.jpg"/>
+<img width="100%" src="https://user-images.githubusercontent.com/47058935/213885741-d77afea3-09d0-4fcd-972f-74e828a5fb60.jpg"/>
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
