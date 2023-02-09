@@ -47,10 +47,10 @@ I am very interested in Artificial Intelligence, Bigdata. ✨
 <br>
 <p align="center">
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MooDongLee&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=MooDongLee&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=MooDongLee&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MooDongLee&theme=tokyonight&layout=compact" />
 </a>
 </p>
 
