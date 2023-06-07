@@ -41,6 +41,7 @@ I am very interested in Artificial Intelligence, Bigdata. ✨
 <h3 align="center"> 🎳 About Me 🎳 </h3>
 <p align="center">
   <a href="https://centralmoo.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white&link=https://centralmoo.tistory.com"/></a>&nbsp
+  <a href="https://worried-bosworth-c1f.notion.site/AI-BIGDATA-9168e2dcb70a498191d852d6ffc2b0a4"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white&link=https://worried-bosworth-c1f.notion.site/AI-BIGDATA-9168e2dcb70a498191d852d6ffc2b0a4"/></a>&nbsp
   <a href="https://www.linkedin.com/in/moodong-lee/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/moodong-lee/"/></a>&nbsp
 </p>
 
