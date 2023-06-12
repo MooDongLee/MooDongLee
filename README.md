@@ -45,6 +45,7 @@ I am very interested in Artificial Intelligence, Bigdata. ✨
   <a href="https://www.linkedin.com/in/moodong-lee/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/moodong-lee/"/></a>&nbsp
 </p>
 
+<!--
 <br>
 <p align="center">
 <a href="s">
@@ -54,6 +55,7 @@ I am very interested in Artificial Intelligence, Bigdata. ✨
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MooDongLee&theme=tokyonight&layout=compact" />
 </a>
 </p>
+-->
 
 <!-- ![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer) -->
 
