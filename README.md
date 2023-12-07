@@ -11,9 +11,9 @@ I am very interested in Artificial Intelligence, Bigdata. ✨
 
 <h3 align="center">🛠 Teck Stack 🛠</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<!--   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> -->
+<!--   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> -->
+<!--   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> -->
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
@@ -27,7 +27,7 @@ I am very interested in Artificial Intelligence, Bigdata. ✨
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white">
-  <img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> -->
   <img src="https://img.shields.io/badge/atom-66595C?style=for-the-badge&logo=atom&logoColor=white">
   <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -40,7 +40,7 @@ I am very interested in Artificial Intelligence, Bigdata. ✨
 
 <h3 align="center"> 🎳 About Me 🎳 </h3>
 <p align="center">
-  <a href="https://centralmoo.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white&link=https://centralmoo.tistory.com"/></a>&nbsp
+<!--   <a href="https://centralmoo.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white&link=https://centralmoo.tistory.com"/></a>&nbsp -->
   <a href="https://worried-bosworth-c1f.notion.site/AI-BIGDATA-9168e2dcb70a498191d852d6ffc2b0a4"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white&link=https://worried-bosworth-c1f.notion.site/AI-BIGDATA-9168e2dcb70a498191d852d6ffc2b0a4"/></a>&nbsp
   <a href="https://www.linkedin.com/in/moodong-lee/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/moodong-lee/"/></a>&nbsp
 </p>
